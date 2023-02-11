@@ -1,0 +1,15 @@
+E:\Для учёбы\C#\first_lection\ferst_primer\bin\Debug\net6.0\ferst_primer.exe
+E:\Для учёбы\C#\first_lection\ferst_primer\bin\Debug\net6.0\ferst_primer.deps.json
+E:\Для учёбы\C#\first_lection\ferst_primer\bin\Debug\net6.0\ferst_primer.runtimeconfig.json
+E:\Для учёбы\C#\first_lection\ferst_primer\bin\Debug\net6.0\ferst_primer.dll
+E:\Для учёбы\C#\first_lection\ferst_primer\bin\Debug\net6.0\ferst_primer.pdb
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\ferst_primer.csproj.AssemblyReference.cache
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\ferst_primer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\ferst_primer.AssemblyInfoInputs.cache
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\ferst_primer.AssemblyInfo.cs
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\ferst_primer.csproj.CoreCompileInputs.cache
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\ferst_primer.dll
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\refint\ferst_primer.dll
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\ferst_primer.pdb
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\ferst_primer.genruntimeconfig.cache
+E:\Для учёбы\C#\first_lection\ferst_primer\obj\Debug\net6.0\ref\ferst_primer.dll
